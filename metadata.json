@@ -1,0 +1,7 @@
+{
+  "name": "MotoStock Pro - Motorbike Shop IMS",
+  "description": "A comprehensive inventory and sales management system for motorcycle shops, featuring stock tracking, automated invoicing, customer management, and AI-powered business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
